@@ -15,6 +15,7 @@ namespace TeamCity
         static void Main(string[] args)
         {
 			//Test comment test
+			// new line
             Console.WriteLine("Enter two number");
             firstNumber =float.Parse(Console.ReadLine());
             SecondNumber = float.Parse(Console.ReadLine());
