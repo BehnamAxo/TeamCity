@@ -21,6 +21,7 @@ namespace TeamCity
 			// three
 			// four
 			// five
+			// six
             Console.WriteLine("Enter two number");
             firstNumber =float.Parse(Console.ReadLine());
             SecondNumber = float.Parse(Console.ReadLine());
