@@ -15,27 +15,6 @@ namespace TeamCity
         static void Main(string[] args)
         {
 			//Test comment test
-			// new line
-			// one
-			// two
-			// three
-			// four
-			// five
-			// six
-			// seven
-			// eight
-			// nine
-			// ten
-			// eleven
-			// twelve
-			// thirteen
-			// fourteen
-			// fifteen
-			// sixteen
-			// seventeen
-			// eighteen
-			// ninteen
-			// twenty
             Console.WriteLine("Enter two number");
             firstNumber =float.Parse(Console.ReadLine());
             SecondNumber = float.Parse(Console.ReadLine());
