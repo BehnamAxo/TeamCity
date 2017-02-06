@@ -33,6 +33,7 @@ namespace TeamCity
 			// fifteen
 			// sixteen
 			// seventeen
+			// eighteen
             Console.WriteLine("Enter two number");
             firstNumber =float.Parse(Console.ReadLine());
             SecondNumber = float.Parse(Console.ReadLine());
